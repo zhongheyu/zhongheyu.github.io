@@ -3,13 +3,14 @@
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 是一种简单易用的语法来格式化你的写作。它包含如下的一些写作惯例
 
 ```markdown
-Syntax highlighted code block
+高亮代码块
 
-# Header 1
-## Header 2
-### Header 3
+# 一级标题
+## 二级标题
+### 三级标题
 
 - Bulleted
 - List
